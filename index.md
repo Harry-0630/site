@@ -5,10 +5,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
+-  **Learning :** Full-Stack Development ⚡,Web-Developer 🔥
 -  **Languages :** Python, C, HTML
--  **Hobbies :** Gaming :video_game: & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Hobbies :** Gaming :🎮 & Music 🎧
+-  **Fact :** First solve the problem, then write the code 💗
+-  
 -  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
 -  [![Google - Developer Profile](https://img.shields.io/static/v1?label=Google&message=Developer+Profile&color=4285F4)](https://developers.google.com/profile/u/102487938215659220995)
  
