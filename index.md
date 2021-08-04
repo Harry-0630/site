@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<img src="/Harry (1).png" width="50%">
 
-You can use the [editor on GitHub](https://github.com/Harry-0630/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Gmail Badge](https://img.shields.io/badge/-0630harry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0630harry@gmail.com)](mailto:0630harry@gmail.com)
+![](https://komarev.com/ghpvc/?username=harry-0630)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
+-  **Languages :** Python, C, HTML
+-  **Hobbies :** Gaming :video_game: & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Website :** [https://hemang.engineer](https://hemang.engineer)
+-  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
+-  [![Google - Developer Profile](https://img.shields.io/static/v1?label=Google&message=Developer+Profile&color=4285F4)](https://developers.google.com/profile/u/102487938215659220995)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📕 Latest Blog Post :
+![Blog Post Workflow](https://github.com/hemang-2001/hemang-2001/workflows/Blog%20Post%20Workflow/badge.svg?branch=main)
+<!-- BLOG-POST-LIST:START -->
 
-### Markdown
+- [Jpeg To Ascii](https://blog.hemang.engineer/2021/03/27/JPEG-TO-ASCII.html)
+- [A Personal Blog Website](https://blog.hemang.engineer/2020/12/18/A-Blog-Website.html)
+- [A Personal Website](https://blog.hemang.engineer/2020/12/15/A-Personal-Website.html)
+<!-- BLOG-POST-LIST:END -->
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💻 Github Profile Stats :)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemang-2001&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemang-2001&theme=dracula)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kindely Follow my profile ➡️ [Harry-0630](https://github.com/harry-0630)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Harry-0630/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
