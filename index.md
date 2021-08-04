@@ -9,13 +9,11 @@
 -  **Languages :** Python, C, HTML
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Website :** [https://hemang.engineer](https://hemang.engineer)
 -  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
 -  [![Google - Developer Profile](https://img.shields.io/static/v1?label=Google&message=Developer+Profile&color=4285F4)](https://developers.google.com/profile/u/102487938215659220995)
  
  
 ### 💻 Github Profile Stats :
-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemang-2001&theme=dracula)
 - ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemang-2001&theme=dracula)
 - ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemang-2001&theme=dracula)
 
